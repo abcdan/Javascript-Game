@@ -5,3 +5,6 @@ Everytime when the random word isn't the name of a NPM Package, you have to take
 1. Download the repository
 2. Run `npm install`
 3. Simply do `node index.js` and see the results
+
+# Todo
+- Make it easier to run again
