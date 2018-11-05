@@ -13,3 +13,5 @@ console.log(`Picked word: ${word}`.yellow);
             console.log(`You're lucky! The word is a NPM package!`.green)
         }
         })
+
+// Github Repo: https://github.com/abcdan/Javascript-Game
