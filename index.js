@@ -10,6 +10,6 @@ console.log(`Picked word: ${word}`.yellow);
         if (res.statusCode === 404) { // This che
             console.log("Take a shot!".red) 
         }else{
-            console.log(`You're lucky! The word isn't a NPM package!`.green)
+            console.log(`You're lucky! The word is a NPM package!`.green)
         }
         })
