@@ -1,5 +1,5 @@
 # Javascript-Game
-Everytime when the random word isn't the name of a NPM Package, you have to take a shot
+Everytime when the random word isn't the name of a NPM Package, you'll have to take a shot.
 
 # How to setup
 1. Download the repository
